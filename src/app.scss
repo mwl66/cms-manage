@@ -1,0 +1,12 @@
+.box {
+  background-color: red;
+
+  .box1 {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+  }
+  .box2 {
+    border-color: aqua;
+  }
+}
